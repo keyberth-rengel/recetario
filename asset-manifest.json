@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/recetas/static/css/main.3f50a0c4.chunk.css",
-    "main.js": "/recetas/static/js/main.350e9f34.chunk.js",
-    "main.js.map": "/recetas/static/js/main.350e9f34.chunk.js.map",
-    "runtime~main.js": "/recetas/static/js/runtime~main.2e29b543.js",
-    "runtime~main.js.map": "/recetas/static/js/runtime~main.2e29b543.js.map",
-    "static/js/2.53bdbe53.chunk.js": "/recetas/static/js/2.53bdbe53.chunk.js",
-    "static/js/2.53bdbe53.chunk.js.map": "/recetas/static/js/2.53bdbe53.chunk.js.map",
-    "index.html": "/recetas/index.html",
-    "precache-manifest.86419e12d2d3f31792c7aa4d1643efb2.js": "/recetas/precache-manifest.86419e12d2d3f31792c7aa4d1643efb2.js",
-    "service-worker.js": "/recetas/service-worker.js",
-    "static/css/main.3f50a0c4.chunk.css.map": "/recetas/static/css/main.3f50a0c4.chunk.css.map"
+    "main.css": "/recetario/static/css/main.3f50a0c4.chunk.css",
+    "main.js": "/recetario/static/js/main.ed93d6f8.chunk.js",
+    "main.js.map": "/recetario/static/js/main.ed93d6f8.chunk.js.map",
+    "runtime~main.js": "/recetario/static/js/runtime~main.0c43afa2.js",
+    "runtime~main.js.map": "/recetario/static/js/runtime~main.0c43afa2.js.map",
+    "static/js/2.53bdbe53.chunk.js": "/recetario/static/js/2.53bdbe53.chunk.js",
+    "static/js/2.53bdbe53.chunk.js.map": "/recetario/static/js/2.53bdbe53.chunk.js.map",
+    "index.html": "/recetario/index.html",
+    "precache-manifest.5f2247de2bb45a7eb47bdec8da9855ad.js": "/recetario/precache-manifest.5f2247de2bb45a7eb47bdec8da9855ad.js",
+    "service-worker.js": "/recetario/service-worker.js",
+    "static/css/main.3f50a0c4.chunk.css.map": "/recetario/static/css/main.3f50a0c4.chunk.css.map"
   }
 }
